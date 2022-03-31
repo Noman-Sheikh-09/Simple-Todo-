@@ -27,3 +27,8 @@ button {
   padding: 5px 10px;
   font-size: 20px;
 }
+
+.list-first:hover{
+color: blueviolet;
+
+}
